@@ -5,7 +5,7 @@
 
                                                                                                                                  
 
-![euovinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=euovinicius&show_icons=true&theme=tokyonight) <img height="180em" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&&layout=compact&hide=shell&theme=tokyonight"/>
+![euovinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=euovinicius&show_icons=true&theme=tokyonight) <img height="195em" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&&layout=compact&hide=shell&theme=tokyonight"/>
 
 
 
