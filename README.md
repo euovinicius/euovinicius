@@ -1,11 +1,13 @@
    
  ## *Oii eu sou o vinicius*            
 
-                                                                                                                              
+<div>
+  <a href="https://github.com/euovinicius">
+  <img height="200em"   align="center" src="https://github-readme-stats.vercel.app/api?username=euovinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&&layout=compact&hide=shell&theme=tokyonight"/>
 
-![euovinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=euovinicius&show_icons=true&theme=tokyonight) 
-<img height="195em" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&&layout=compact&hide=shell&theme=tokyonight"/>           
- 
+ <br />
+ <br />    
 
 <img align="left" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
 <br />
