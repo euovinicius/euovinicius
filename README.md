@@ -12,11 +12,15 @@ Atualmente estou aprendendo java, e aprimorando meu conhecimento em Python
    <br />
    <br />
 <div align="center">
+<div align="center">
   <a href="https://github.com/euovinicius">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=euovinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euovinicius&&layout=compact&hide=shell&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/euovinicius">
+    <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=euovinicius&&layout=compact&hide=shell&theme=tokyonight"/>
   </a>
 </div>
+
 
 
  
