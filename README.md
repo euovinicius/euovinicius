@@ -11,8 +11,8 @@ Sistemas de Informação (6/8)
 Atualmente estou aprendendo java, e aprimorando meu conhecimento em Python
    <br />
    <br />
-<div align="center">
-<div align="center">
+
+<div align="center" dir="auto">
   <a href="https://github.com/euovinicius">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=euovinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
